@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Alt text](https://github.com/Ankitjaiswal7781/UrbanKart/blob/main/Screenshot%202025-02-26%20200131.png)
+![Alt text](https://github.com/Ankitjaiswal7781/UrbanKart/blob/main/Screenshot%202025-02-26%20200154.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
